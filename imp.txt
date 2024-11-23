@@ -1,0 +1,6 @@
+git status
+ git add newfile.java
+git add newfile.java
+ git add .
+git commit -m "Add new feature or description of your changes"
+git push origin main

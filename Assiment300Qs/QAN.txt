@@ -1,0 +1,187 @@
+2. Write a program to enter twe naumbers and perform all arithmetic operations.
+3. Write a C program to enter len 4. Write a C program to enter lenth and breadth of a rectangle and find its area.
+4. Write a C program to enter radus of a cdircle and find its diameter, circumference and area. Write a C program to enter lensth in centimeter and convert it into meter and kilometer.
+5. Write a C program to enter temperature in Celsius and convert it into Fahrenheit.
+   Write a C program to enter temperarure in Fahrenheit and convert to Celsius
+   .Write a C program to print your name, date of birth and mobile number.
+   txpectud Output:
+   enter lenth and breadth of a rectangle and find its perimeter.
+6. Name Armit Jain
+   :July 14, 1975
+   Mobile 91 9999999999
+   DOB
+7. V.ite aC prog 1m to print block F usig hash (), where the F n height of six characters and width of
+   five and four characters
+   Expected Output
+8. Write aC program to print a big'C
+   Expectet Output:
+9. Wrte a C program to pit the tollowing characters in a reverse way.
+   Test O aracters: \*', "M, 1
+   pect 2d Otput:
+   The rverse of XML is LMY
+10. Write a i program to tonpute the perimeter and area of a rectang vwith a he-ght of 7 inches. and widtn
+    of S in hes
+    Expecd Output:
+    Perim tr d the rectangle* 4 inces Area he rectangle r *5 S0are inhes
+    4.Write aC program to u ute the perimeter and ares of a cirete with a radius of 6 inches.
+    Expe ted Output:
+    UNIVERSAL INFORMATIc
+    www.Uversalinformatics.comE-mail:info@universalintornatics.com
+    CASSIGNMENT Perimeter of the Circle Area of 37.680000 inches the Circle = 113.040001 square inches
+11. Write aC program to Sample Variables display multiple variables. a\* C, X+C,dx + x, (int) dx) + Declaration: ax, a+x, S+ b, ax +b, s+ C, ax+C, ax+ Ux
+    int a = 125, b = 12345,; long ax = 1234567890; short s= 4043;
+    float x 2.13459;
+    double dx = 1.1415927; char c = 'WN';
+    unsigned long ux = 2541567890;
+12. Write a C program to convert specified days into Note: years, weeks and days. lgnore leap year. Test Data
+    Number of days 1329
+    Expected Output: Years:3
+    Weeks: 33
+    Days:3
+13. WriteaC program that accepts two integers from the user and calculate the sum of the two integers. Test Data:
+    Input the first integer: 25
+    Input the second integer: 38
+    Expected Output:
+    Sum of the above two integers = 63
+14. Write a C program that accepts two integers from the user and calculate the product of the two integers. Test Data
+    nput the first integer: 25
+    Input the second integer: 15
+    Expected Output:
+    Product of the above two integers = 375
+
+
+
+
+1. Basics of Java
+Write a program to print "Hello, World!".
+Create a program to take input from the user and display it.
+Write a program to find the largest of three numbers.
+Implement a program to check if a number is even or odd.
+2. Control Statements
+Write a program to display the multiplication table of a given number.
+Implement a program to check if a given year is a leap year.
+Write a program to reverse a given number using loops.
+Create a program to find the factorial of a number using a for loop.
+
+
+
+19. Write a C program to find maximum between two numbers. 20. Write aC program to find maximum between three numbers., 21. Write a C program to check whether a number is negative, positive or zer. 22. Write a C program to check whether a number is divisible by 5 and 11 or not. 23. Write a Cprogram to check whether a number is even or odd. 
+24. Write aCprogram to check whether a year is leap year or :ot. 
+25. Write aCprogram to check whether a character is alphabet or not. 
+26. Write a Cprogram to input any alphabet and check whether it is vowel or consenant. 27. Write aCprogram to input any character and check whether it is alphabet, digit or special chardcter. 28. Write a Cprogram to check whether a character is uppercase or lowercase alphabet. 29. Write au program to input week number and print week day. 
+UNIVERSAL INFORMATICS www universalinformatics.comE-mail:info@universalinformatics.com 
+30. Write aC CASSIGNMENT program to input month number and print number of days In that month. 
+31) Write aC program to count total number of notes in given amount. 
+32. Write aC program to input angles of a triangle and check whether trlangle is valid or not. 
+33.Write aC program to input all sides of a triangle and check whether triangle Is valid or not. 
+34. Write aC program to check whether the triangle ls equilateral, isosceles or scalene triangle. 
+35. Write aC program to find all roots of a quadratic equatlon. 
+36. Write aC program to calculate profit or loss. 37. Write aC program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. 
+Caiculate percentage and grade according to follaowing: Percentage > 90%: Grode A Percentage >= 80% : Grade B Percentage >= 70% : GradeC Percentage >= 60%:Grade D tercentage >= 40% : Grade E fercentage < 40% :Grade F J8. Write a C progran to input basic salary of an employee and calculate its Gross salary according to 
+tollowing Basic Salary <= 10000 HRA = 20%, DA = 30% Basic Salary <= 20000 HRA = 25%, DA = 90% Basic Salary> 20000: HRA = 30%, DA = 95% 
+39. Write aC program to input electricity unit charges and calculate total electricity bill according to the given 
+ondition: 
+For first 50 units ks. For next 0.50/unit 100 units Rs. For next 100 0.75/unit units Rs. For unit 1.20/unit above 250 Rs. An 1.50/unit additional surcharge of 20% is added to 0.)write the bill aC program that accepts two item's weight (floating points' values ) and number of purchase 
+(Hoating points' values) and calculate the average value of the items. 
+Test Data: 
+Weight 1tem1: 15 
+No. of item1:5 
+Weight Item2: 25 
+No. of item2: 4 
+Expected Output 
+Average Value 19.444444 
+43.Write aC 
+program that accepts an enployee's ID, total worked hours of a month and the amount he 
+received per hour. Print the employee's ID and salary (with two decimal places) of a particular month. 
+Test Data 
+laput the Employees ID{Max. 10 chars): 0342 Input the working hrs: 8 Salary amount/hr: 15000 
+Expected Output: Einployees ID = u342 
+Salary = US 120000.00 
+42) Write aC 
+program that accepts three integers and find the naximum of three. 
+Test Data: 
+hput the first integer: 25 
+UNIVERSAL INFORMAT!C www.universalinformatics.com,E-mail:info@universatinfar1natics.co 
+CASSIGNMENT 
+nput the second integer: 35 
+nput the third integer: 15 
+xpected Output: 
+Maximum value of three integers: 35 
+Write a C program to calculate a blke's average consumption from the glven total distance (integer value) 
+raveled fin km) and spent fuel (n liters, float number-2 decimal polnt). 
+Test Data: 
+Input total distance in km: 350 
+Ioput total fuel spent in liters:5 
+Expected Outpiut: 
+Average consumption (kn/t) 70.000 
+A Write C program to calculate the distance between the two points. 
+Test Data 
+Input x1: 25 
+tnput y1: 15 
+Input x2: 35 
+Input y2: 10 
+Expected Output: 
+Distance between the said points: 11.1803 
+4. Wnte a C program to read an amount (integer value) and break the amount into smallest possible number 
+of bank notes. 
+Test Data 
+Input the amount: 375 
+Expected Output: here are: 
+3 Notels) of 100.00 
+1 Note(s) of 50.00 
+I Note(s) of 20.00 
+O Noteis) of 10.00 
+1 Note(s) of 5.00 
+O Note(s) of 2.00 
+O Notels) of 1.00 
+46. Write a Cprogram to convert a given inteyer (in seconds) to hours, minutes and seconds. 
+Test Data: 
+Input seconds: 25300 
+Expected Output: 
+There are: 
+H:M:5-7:1:40 
+A7.Write aCprogram to converta given integer (in days) to years, inonths and days, assumes that all months 
+have 30 days and all years have 365 ilays. 
+Test Data : 
+Input no. of days: 2535 
+Expected Output: 
+Yitar(s) 
+11 Months) 
+15 Dayls) 
+UNIVERSAL INFORMATIcS 
+www.universalinlormatics.comE-niall:info@universatin.formatics.rom 
+CASSIGNMENT 
+8)Wrnte a C program that accepts 4 integers p, 9,r, s from the user wherer ands are positive and p is even. 
+if g is 8reater thanr and s is greater than p and if the sum ofr and s is greater than the sum of p and q print 
+"Correct values", otherwise print "Wrong values. Test P m fltitan to Inpur' the second integer: 35 
+input the third integer: 15 
+Input the fourth integer: 46 
+Expected Output: 
+Wrong values 
+9. Write a C program to print the roots of Bhaskara's formula from the given three ffoating numbers. Display 
+a message if it is not 
+Test Data: possible to find the roots 
+Input the first number(a): 25 
+Input the second number(b): 35 input the third number(c): 12 Erfcted Output: 
+HO Jtl= -0.60000 
+Root2 = -o.80000 
+50. Write a C program that reads an integer and check the specified range where it belongs. Print an error 
+message if the number is negative and Test Data: greater than 80. 
+Input an integer: 15 
+Expected Output: 
+Range (0, 20 
+Write aC program that read 5 numbers and sum of all odd values between them. Test Data: 
+Input the first number: 11 
+nput the second number: 17 
+input the third number: 13 
+Input the fourth number: 12 
+Input the fifth number: 5 
+Expected Output: 
+Sum of all odd values: 46 
+$2 Write aC program that reads three floating values and check if it is possible to make a triangle with then. 
+Also calculate the perimeter of the triangle if the said values are valid. Test Data: 
+Input the first integer: 5 
+Input the second integer: 15 
+Input the third integer: 10 
+Expected Output: 
+Numbers in sorted oruer: 5 10 15
